@@ -58,7 +58,7 @@ int main()
         }
         else{
             printf("Invalid marks")
-        }sssss
+        }
     }
 
     return 0;
